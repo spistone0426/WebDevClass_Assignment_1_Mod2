@@ -1,0 +1,32 @@
+html{
+    background: rgba(237,13,0,0.56) linear-gradient(rgba(237,208,51,0.67), rgba(237,103,30,0.73), rgba(237,63,79,0.73)) no-repeat fixed;
+}
+
+.tablePresets{
+    border: 1px solid black;
+    text-align: center;
+
+}
+
+th{
+    border-bottom: rgba(0,0,0,0) 1px;
+}
+
+tr:hover{
+    background-color: rgba(24,12,6,0.16);
+}
+
+#Code_Table{
+    margin-left: auto;
+    margin-right: auto;
+    font-size: x-large;
+}
+
+#Work_Table{
+    margin: 60px auto 30px;
+    font-size: x-large;
+}
+
+#work_Back{
+    text-align: start;
+}

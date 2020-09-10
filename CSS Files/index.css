@@ -1,0 +1,35 @@
+table{
+    border-spacing: 5px;
+    margin: 3px auto;
+}
+
+
+td{
+    border-top: 1px solid rgba(5,54,92,0.73);
+}
+
+table{
+    border: 1px solid black;
+    text-align: center;
+}
+.options{
+    width: 30%;
+    height: 60%;
+    font-size: larger;
+}
+
+body{
+    padding-top: 12%;
+    height: 100%;
+    background-size: 100%;
+    min-height: 100%;
+    background: linear-gradient(to right top, #051937, #004d7a, #008793, #00bf72, #a8eb12) no-repeat fixed;
+}
+
+th:hover{
+    background-color: rgba(24,12,6,0.16);
+}
+
+td:hover{
+    background-color: rgba(24,12,6,0.16);
+}
